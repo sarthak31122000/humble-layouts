@@ -1,0 +1,44 @@
+.med-container {
+  margin-top: -4rem;
+  background-color: #fffbf4;
+  display: flex;
+}
+.text-container {
+  margin-left: 11rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-container {
+  display: flex;
+}
+.image-container img {
+  height: 50rem;
+  width: 50rem;
+  margin-left: 4rem;
+}
+
+.med-para {
+  color: steelblue;
+  width: 37rem;
+  font-size: 2rem;
+  margin-top: 0rem;
+  margin-bottom: 4rem;
+}
+
+.med-heading {
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.med-button {
+  height: 3rem;
+  width: 13rem;
+  border-radius: 8px;
+  border: 0;
+  background-color: #d8ac9c;
+  color: aliceblue;
+  font-family: lato;
+  font-size: 21px;
+}

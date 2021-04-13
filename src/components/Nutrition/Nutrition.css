@@ -1,0 +1,48 @@
+.nut-container {
+  background-color: #b19cd9;
+  display: flex;
+  padding: 2rem;
+}
+.text-nut-container {
+  margin-left: 11rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-container-nut {
+  display: flex;
+}
+.image-container-nut img {
+  margin-right: 9rem;
+  height: 40rem;
+  width: 46rem;
+  margin-left: 4rem;
+}
+
+.med-para-nut {
+  color: #132c33;
+  width: 37rem;
+  font-size: 2rem;
+  margin-top: 0rem;
+  margin-bottom: 4rem;
+}
+
+.med-heading-nut {
+  width: 40rem;
+  color: white;
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.med-button-nut {
+    height: 3rem;
+    width: 13rem;
+    border-radius: 8px;
+    border: 0;
+    background-color: #ffcc29;
+    color: #f7f3e9;
+    font-family: lato;
+    font-size: 29px;
+    font-weight: 600;
+}
